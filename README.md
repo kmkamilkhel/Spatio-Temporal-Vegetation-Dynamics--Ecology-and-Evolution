@@ -16,7 +16,7 @@ The primary goal of this research is to assess vegetation dynamics, climatic inf
 📁 /Data Download and Preprocessing
 ├── climate/                 # Climate data (e.g., temperature, precipitation)
 ├── vegetation/              # Vegetation index data (e.g., NDVI)
-
+```
 ## Data Sources
 
 | Variable                   | Sensor/Dataset               | Temporal Resolution | Spatial Resolution |
@@ -51,3 +51,19 @@ The primary goal of this research is to assess vegetation dynamics, climatic inf
    ```bash
    git clone https://github.com/your-repository-name.git
    cd your-repository-name
+
+
+## Contact
+
+For questions or feedback, please contact:
+
+- **Author:** Kaleem Mehmood  
+  **Email:** [kaleemmehmood73@gmail.com](mailto:kaleemmehmood73@gmail.com)
+
+- **Author:** Shoaib Ahmad Anees  
+  **Email:** [anees.shoaib@gmail.com](mailto:anees.shoaib@gmail.com)
+
+
+
+
+
