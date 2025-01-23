@@ -1,4 +1,4 @@
-# Main README for Vegetation and Climate Research Repository
+# Vegetation and Climate Research Repository
 
 This repository contains all scripts, workflows, and documentation related to the analysis of vegetation dynamics and climatic impacts using remote sensing data. The research focuses on vegetation indices, climate variables, and spatiotemporal analysis in specific geographic regions.
 
