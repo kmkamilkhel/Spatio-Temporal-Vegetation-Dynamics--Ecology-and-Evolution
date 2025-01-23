@@ -11,8 +11,20 @@ The primary goal of this research is to assess vegetation dynamics, climatic inf
 - **Trend and Residual Analysis:** Employing advanced statistical tools such as the Mann-Kendall test, Sen's slope, and residual NDVI trends to quantify vegetation changes and human impacts.
 - **Spatiotemporal Analysis:** Conducting pixel-based trend analysis and ecological assessments to monitor vegetation changes over time.
 ```
-# Main repository README
-├── data/ # Placeholder for dataset links and descriptions │ 
+├── README.md                # Main repository README
+├── data/                    # Placeholder for dataset links and descriptions
+│   ├── climate/             # Climate data (e.g., temperature, precipitation)
+│   ├── vegetation/          # Vegetation index data (e.g., NDVI, kNDVI)
+├── scripts/                 # Scripts for data processing and analysis
+│   ├── climatic_data.js     # Script to process and export climate data
+│   ├── vegetation_index.js  # Script for vegetation index calculations
+│   ├── hotspot_analysis.py  # Python script for hotspot analysis
+├── docs/                    # Documentation and references
+│   ├── methodology.md       # Detailed explanation of methods
+│   └── references.md        # References to papers and tools used
+└── results/                 # Processed results and GeoTIFF exports
+    ├── maps/                # Maps and visualizations
+    ├── statistics/          # Summary statistics and analysis results
 ```
 ## Data Sources
 
