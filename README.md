@@ -11,7 +11,7 @@ The primary goal of this research is to assess vegetation dynamics, climatic inf
 - **Trend and Residual Analysis:** Employing advanced statistical tools such as the Mann-Kendall test, Sen's slope, and residual NDVI trends to quantify vegetation changes and human impacts.
 - **Spatiotemporal Analysis:** Conducting pixel-based trend analysis and ecological assessments to monitor vegetation changes over time.
 
-
+├── README.md # Main repository README ├── data/ # Placeholder for dataset links and descriptions │ ├── climate/ # Climate data (e.g., temperature, precipitation) │ ├── vegetation/ # Vegetation index data (e.g., NDVI, NBR) ├── scripts/ # Scripts for data processing and analysis │ ├── climatic_data.js # Script to process and export climate data │ ├── vegetation_index.js # Script for vegetation index calculations │ ├── trend_analysis.py # Python script for trend analysis ├── docs/ # Documentation and references │ ├── methodology.md # Detailed explanation of methods │ └── references.md # References to papers and tools used └── results/ # Processed results and GeoTIFF exports ├── maps/ # Maps and visualizations ├── statistics/ # Summary statistics and analysis results
 
 ## Data Sources
 
@@ -26,7 +26,7 @@ The primary goal of this research is to assess vegetation dynamics, climatic inf
 ## Key Features
 
 1. **Vegetation Analysis:**
-   - Calculation of NDVI and BAIS2 for assessing vegetation health and burn severity.
+   - Calculation of NDVI for assessing vegetation dynamics.
    - Trend analysis using Mann-Kendall test and Sen’s slope.
 
 2. **Climatic Data Processing:**
@@ -38,7 +38,7 @@ The primary goal of this research is to assess vegetation dynamics, climatic inf
    - Residual NDVI trends to isolate anthropogenic influences.
 
 4. **Visualization:**
-   - Exported maps for NDVI, BAIS2, and climatic variables.
+   - Exported maps for NDVI and climatic variables.
    - Visual summaries of trend analysis results.
 
 ## How to Use
