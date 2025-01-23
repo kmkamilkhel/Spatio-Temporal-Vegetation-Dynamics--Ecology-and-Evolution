@@ -54,3 +54,40 @@ This script calculates and visualizes NDVI (Normalized Difference Vegetation Ind
 - **NDVI:**
   ```javascript
   { min: -1, max: 1, palette: ['#640000', '#ff0000', '#006400', '#00c800', '#006400'] }
+
+
+## Data Sources
+
+| Variable              | Sensor                      | Temporal Resolution | Spatial Resolution |
+|-----------------------|-----------------------------|---------------------|--------------------|
+| **NDVI**              | Landsat (5 TM, 7 ETM+, 8 OLI) | 16-Day Composite    | 30 m               |
+| **Temperature**       | ECMWF Reanalysis Project     | Monthly             | 9 km               |
+| **Precipitation**     | TerraClimate                | Monthly             | 5.5 km             |
+| **Solar Radiation**   | TerraClimate                | Monthly             | 5.5 km             |
+| **Vapor Pressure Deficit** | TerraClimate           | Monthly             | 5.5 km             |
+
+## Contact
+
+For questions or feedback, please contact:
+
+- **Author:** Kaleem Mehmood  
+  **Email:** [kaleemmehmood73@gmail.com](mailto:kaleemmehmood73@gmail.com)
+
+- **Author:** Shoaib Ahmad Anees  
+  **Email:** [anees.shoaib@gmail.com](mailto:anees.shoaib@gmail.com)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
